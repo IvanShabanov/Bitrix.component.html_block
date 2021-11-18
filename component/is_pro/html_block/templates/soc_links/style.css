@@ -1,0 +1,29 @@
+.social_links {
+    display: flex;
+    justify-content: space-around;
+}
+
+.social_link {
+    display: inline-flex;
+    width: 16px;
+    height: 16px;
+    text-decoration: none;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.social_link.SOC_VK {
+    background-image: url("https://vk.com/images/icons/favicons/fav_logo.ico");
+}
+
+.social_link.SOC_OK {
+    background-image: url("https://ok.ru/favicon.ico");
+}
+
+.social_link.SOC_FB {
+    background-image: url("https://www.facebook.com/favicon.ico");
+}
+
+.social_link.SOC_INS {
+    background-image: url("https://www.instagram.com/favicon.ico");
+}
