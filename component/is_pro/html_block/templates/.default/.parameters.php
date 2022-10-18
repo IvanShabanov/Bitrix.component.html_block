@@ -8,9 +8,9 @@ $arMyParams = array(
 );
 
 $arTemplateParameters = [];
-foreach ($arMyParams as $val) {
-	$arTemplateParameters[] = [
-		'NAME' => $val,
+foreach ($arMyParams as $param=>$name) {
+	$arTemplateParameters[$param] = [
+		'NAME' => $name,
 		'COLS' => 35,
 		'ROWS' => 3
     ];
