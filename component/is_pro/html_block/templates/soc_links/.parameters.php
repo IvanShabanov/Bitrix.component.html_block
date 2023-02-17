@@ -2,7 +2,7 @@
 
 $set = array(
 	'SOC_VK' => 'В контакте',
-    'SOC_OK' => 'Однокласники',
+	'SOC_OK' => 'Однокласники',
 	'SOC_FB' => 'Facebook',
 	'SOC_INS' => 'Instagram',
 );

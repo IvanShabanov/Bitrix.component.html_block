@@ -2,9 +2,9 @@
 ?>
 
 <pre>
-    <?print_r($arParams)?>
+	<?print_r($arParams)?>
 </pre>
 
 <pre>
-    <?print_r($arResult)?>
+	<?print_r($arResult)?>
 </pre>

@@ -13,5 +13,5 @@ foreach ($arMyParams as $param=>$name) {
 		'NAME' => $name,
 		'COLS' => 35,
 		'ROWS' => 3
-    ];
+	];
 }
